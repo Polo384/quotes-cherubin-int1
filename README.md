@@ -9,5 +9,5 @@ A python program that generates programming quotes and jokes.
 - `contributor-3`: MASDUPUY Oscar INT1
 ## Fork urls
 - `contributor-1`: [quotes-sautiere-int1](https://github.com/gspfr/quotes-sautiere-int1)
-- `contributor-2`: [quotes-sautiere-int1](https://github.com/gspfr/quotes-sautiere-int1)
-- `contributor-3`: [quotes-masdupuy-int1](https://github.com/Masdupp/quotes-masdupuy-int1)
+- `contributor-2`: [quotes-masdupuy-int1](https://github.com/Masdupp/quotes-masdupuy-int1)
+- `contributor-3`: [quotes-sautiere-int1](https://github.com/gspfr/quotes-sautiere-int1)
